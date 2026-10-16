@@ -1,0 +1,25 @@
+skill_id,name,category,subcategory,description,is_synthetic
+SK_01,Python,Technical,Programming Languages,General-purpose scripting and application programming language,True
+SK_02,SQL,Technical,Databases,Relational database querying and data modeling,True
+SK_03,JavaScript,Technical,Programming Languages,Core dynamic scripting language of the web platform,True
+SK_04,React,Technical,Web Frameworks,Component-based UI library for modern web applications,True
+SK_05,HTML/CSS,Technical,Web Fundamentals,Standard markup and styling fundamentals for web pages,True
+SK_06,Java,Technical,Programming Languages,Object-oriented programming language for enterprise software,True
+SK_07,Git & GitHub,Technical,Developer Tools,Version control system and collaborative code workflows,True
+SK_08,Docker,Technical,DevOps & Containers,Container virtualization for reproducible application execution,True
+SK_09,Linux Fundamentals,Technical,Operating Systems,"Command-line operations, shell scripting, and permissions",True
+SK_10,RESTful APIs,Technical,Backend Architecture,"API design principles, HTTP methods, and status codes",True
+SK_11,Pandas & NumPy,Technical,Data Science,Data manipulation and numerical array computations,True
+SK_12,Data Visualization,Technical,Data Science,Creating charts and dashboards with tools or code,True
+SK_13,Statistics & Probability,Technical,Data Science,"Inferential statistics, hypothesis testing, and distributions",True
+SK_14,Machine Learning Fundamentals,Technical,AI & ML,"Supervised/unsupervised algorithms, evaluation metrics",True
+SK_15,Cloud Basics (AWS/Azure),Technical,Cloud Computing,"Core cloud services: compute, storage, networking",True
+SK_16,CI/CD Pipelines,Technical,DevOps & Containers,Continuous integration and automated build/deployment pipelines,True
+SK_17,Data Structures & Algorithms,Technical,Core Fundamentals,"Arrays, trees, graphs, sorting, searching, and complexity",True
+SK_18,Network Security Fundamentals,Technical,Cybersecurity,"OSI model, TCP/IP, firewalls, and encrypted protocols",True
+SK_19,Cyber Incident Response,Technical,Cybersecurity,"Log analysis, threat triaging, and vulnerability assessment",True
+SK_20,Kubernetes Basics,Technical,DevOps & Containers,Container orchestration and service discovery concepts,True
+SK_21,Power BI / Tableau,Technical,Business Intelligence,Interactive business intelligence reporting and KPI dashboards,True
+SK_22,Database Design & ORM,Technical,Databases,Relational schema normalization and object-relational mapping,True
+SK_23,Unit Testing,Technical,Software Quality,"Test-driven patterns, assertion testing, and code coverage",True
+SK_24,Problem Solving & Debugging,Professional,Engineering Practices,Systematic root-cause analysis and code troubleshooting,True

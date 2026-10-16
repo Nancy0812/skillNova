@@ -1,0 +1,17 @@
+role_id,family,title,description,experience_level,is_synthetic
+ROLE_DA_01,Data & Analytics,Data Analyst,Transforms raw business data into actionable dashboards and statistical reports using SQL and visualization tools.,Entry-Level,True
+ROLE_DA_02,Data & Analytics,Business Intelligence Analyst,Designs enterprise KPI metrics and automated reporting workflows for operational decision making.,Entry-Level,True
+ROLE_DA_03,Data & Analytics,Product Analyst,Measures user behavior and A/B test results to drive product optimization and engagement.,Entry-Level,True
+ROLE_AI_01,AI & Machine Learning,Data Scientist,Builds statistical and predictive models using exploratory data analysis and supervised learning algorithms.,Entry-Level,True
+ROLE_AI_02,AI & Machine Learning,ML Engineer,Designs model training pipelines and deploys inference endpoints for production machine learning services.,Entry-Level,True
+ROLE_AI_03,AI & Machine Learning,NLP Engineer,Develops text processing pipelines and language model fine-tuning workflows for unstructured text.,Entry-Level,True
+ROLE_SD_01,Software Development,Python Developer,Builds backend services and automation scripts using modern Python paradigms and REST APIs.,Entry-Level,True
+ROLE_SD_02,Software Development,Java Developer,Develops enterprise-grade backend microservices and object-oriented architectures with Java and Spring.,Entry-Level,True
+ROLE_SD_03,Software Development,Backend Developer,"Engineers scalable server-side systems, database schemas, and RESTful API integrations.",Entry-Level,True
+ROLE_SD_04,Software Development,Software Engineer,"Applies foundational algorithms, data structures, and modular software engineering principles.",Entry-Level,True
+ROLE_WD_01,Web Development,Frontend Developer,"Creates responsive, accessible, and high-performance client web interfaces using modern JavaScript and CSS.",Entry-Level,True
+ROLE_WD_02,Web Development,Full Stack Developer,Develops end-to-end web applications combining user-friendly frontends with robust backend architectures.,Entry-Level,True
+ROLE_CD_01,Cloud & DevOps,DevOps Engineer,Automates continuous integration and deployment pipelines with monitoring and infrastructure-as-code.,Entry-Level,True
+ROLE_CD_02,Cloud & DevOps,Cloud Engineer,"Provisions, configures, and secures cloud computing resources, storage, and networking instances.",Entry-Level,True
+ROLE_CS_01,Cybersecurity,Security Analyst,"Identifies vulnerabilities, audits system security configurations, and assesses operational security risks.",Entry-Level,True
+ROLE_CS_02,Cybersecurity,SOC Analyst,"Monitors real-time security events, detects intrusion alerts, and conducts initial incident triage.",Entry-Level,True

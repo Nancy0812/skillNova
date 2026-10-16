@@ -1,0 +1,83 @@
+mapping_id,job_id,skill_name,requirement_type,importance_weight,is_synthetic
+MAP_001,SJOB_001,SQL,required,3.0,True
+MAP_002,SJOB_001,Python,required,2.5,True
+MAP_003,SJOB_001,Pandas & NumPy,required,2.0,True
+MAP_004,SJOB_001,Data Visualization,required,2.0,True
+MAP_005,SJOB_001,Statistics & Probability,preferred,1.5,True
+MAP_006,SJOB_001,Power BI / Tableau,preferred,1.5,True
+MAP_007,SJOB_002,SQL,required,3.0,True
+MAP_008,SJOB_002,Power BI / Tableau,required,3.0,True
+MAP_009,SJOB_002,Data Visualization,required,2.5,True
+MAP_010,SJOB_002,Database Design & ORM,preferred,2.0,True
+MAP_011,SJOB_002,Python,preferred,1.5,True
+MAP_012,SJOB_003,SQL,required,3.0,True
+MAP_013,SJOB_003,Statistics & Probability,required,2.5,True
+MAP_014,SJOB_003,Pandas & NumPy,required,2.0,True
+MAP_015,SJOB_003,Data Visualization,preferred,2.0,True
+MAP_016,SJOB_004,Python,required,3.0,True
+MAP_017,SJOB_004,Pandas & NumPy,required,3.0,True
+MAP_018,SJOB_004,Statistics & Probability,required,2.5,True
+MAP_019,SJOB_004,Machine Learning Fundamentals,required,2.5,True
+MAP_020,SJOB_004,SQL,preferred,2.0,True
+MAP_021,SJOB_004,Data Visualization,preferred,1.5,True
+MAP_022,SJOB_005,Python,required,3.0,True
+MAP_023,SJOB_005,Machine Learning Fundamentals,required,3.0,True
+MAP_024,SJOB_005,Docker,required,2.5,True
+MAP_025,SJOB_005,Git & GitHub,required,2.0,True
+MAP_026,SJOB_005,RESTful APIs,preferred,2.0,True
+MAP_027,SJOB_005,Linux Fundamentals,preferred,1.5,True
+MAP_028,SJOB_006,Python,required,3.0,True
+MAP_029,SJOB_006,Machine Learning Fundamentals,required,3.0,True
+MAP_030,SJOB_006,Pandas & NumPy,required,2.0,True
+MAP_031,SJOB_006,Git & GitHub,preferred,1.5,True
+MAP_032,SJOB_007,Python,required,3.0,True
+MAP_033,SJOB_007,RESTful APIs,required,2.5,True
+MAP_034,SJOB_007,SQL,required,2.5,True
+MAP_035,SJOB_007,Git & GitHub,required,2.0,True
+MAP_036,SJOB_007,Unit Testing,preferred,1.5,True
+MAP_037,SJOB_007,Docker,preferred,1.5,True
+MAP_038,SJOB_008,Java,required,3.0,True
+MAP_039,SJOB_008,Database Design & ORM,required,2.5,True
+MAP_040,SJOB_008,RESTful APIs,required,2.5,True
+MAP_041,SJOB_008,Git & GitHub,required,2.0,True
+MAP_042,SJOB_008,Unit Testing,preferred,2.0,True
+MAP_043,SJOB_009,RESTful APIs,required,3.0,True
+MAP_044,SJOB_009,SQL,required,3.0,True
+MAP_045,SJOB_009,Python,required,2.5,True
+MAP_046,SJOB_009,Database Design & ORM,required,2.5,True
+MAP_047,SJOB_009,Docker,preferred,2.0,True
+MAP_048,SJOB_009,Git & GitHub,preferred,2.0,True
+MAP_049,SJOB_010,Data Structures & Algorithms,required,3.0,True
+MAP_050,SJOB_010,Git & GitHub,required,2.5,True
+MAP_051,SJOB_010,Unit Testing,required,2.0,True
+MAP_052,SJOB_010,Problem Solving & Debugging,required,2.5,True
+MAP_053,SJOB_010,Python,preferred,2.0,True
+MAP_054,SJOB_011,HTML/CSS,required,3.0,True
+MAP_055,SJOB_011,JavaScript,required,3.0,True
+MAP_056,SJOB_011,React,required,3.0,True
+MAP_057,SJOB_011,Git & GitHub,required,2.0,True
+MAP_058,SJOB_011,RESTful APIs,preferred,2.0,True
+MAP_059,SJOB_012,React,required,3.0,True
+MAP_060,SJOB_012,JavaScript,required,3.0,True
+MAP_061,SJOB_012,RESTful APIs,required,2.5,True
+MAP_062,SJOB_012,SQL,required,2.5,True
+MAP_063,SJOB_012,Git & GitHub,required,2.0,True
+MAP_064,SJOB_012,Docker,preferred,1.5,True
+MAP_065,SJOB_013,Linux Fundamentals,required,3.0,True
+MAP_066,SJOB_013,Docker,required,3.0,True
+MAP_067,SJOB_013,CI/CD Pipelines,required,2.5,True
+MAP_068,SJOB_013,Git & GitHub,required,2.5,True
+MAP_069,SJOB_013,Cloud Basics (AWS/Azure),preferred,2.0,True
+MAP_070,SJOB_014,Cloud Basics (AWS/Azure),required,3.0,True
+MAP_071,SJOB_014,Linux Fundamentals,required,2.5,True
+MAP_072,SJOB_014,Docker,required,2.5,True
+MAP_073,SJOB_014,Kubernetes Basics,preferred,2.0,True
+MAP_074,SJOB_014,CI/CD Pipelines,preferred,2.0,True
+MAP_075,SJOB_015,Network Security Fundamentals,required,3.0,True
+MAP_076,SJOB_015,Linux Fundamentals,required,2.5,True
+MAP_077,SJOB_015,Cyber Incident Response,required,2.5,True
+MAP_078,SJOB_015,Problem Solving & Debugging,preferred,2.0,True
+MAP_079,SJOB_016,Cyber Incident Response,required,3.0,True
+MAP_080,SJOB_016,Network Security Fundamentals,required,3.0,True
+MAP_081,SJOB_016,Linux Fundamentals,required,2.5,True
+MAP_082,SJOB_016,Git & GitHub,preferred,1.5,True

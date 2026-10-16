@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" fill="none">
+  <defs>
+    <linearGradient id="sn-grad" x1="0" y1="48" x2="48" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#5932B4" />
+      <stop offset="50%" stop-color="#7548D8" />
+      <stop offset="100%" stop-color="#A78BFA" />
+    </linearGradient>
+    <filter id="sn-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#7548D8" flood-opacity="0.3" />
+    </filter>
+  </defs>
+  <!-- Background subtle rounded base -->
+  <rect width="48" height="48" rx="12" fill="#F5F0FF"/>
+  <!-- Stepped connected career nodes and rising path -->
+  <path d="M12 36 L20 28 L28 22 L36 12" stroke="url(#sn-grad)" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Connected nodes -->
+  <circle cx="12" cy="36" r="3.5" fill="#7548D8" />
+  <circle cx="20" cy="28" r="3" fill="#7548D8" />
+  <circle cx="28" cy="22" r="3.5" fill="#A78BFA" />
+  <!-- Apex Rising Star Motif -->
+  <path d="M36 7 L37.5 10.5 L41 12 L37.5 13.5 L36 17 L34.5 13.5 L31 12 L34.5 10.5 Z" fill="#7548D8" filter="url(#sn-glow)" />
+</svg>
